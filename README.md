@@ -636,7 +636,7 @@ If you receive a flag pop-up requiring you to have 0.001 ETH on mainnet, you may
   - Ask questions and chat about the course here!
 - [Stack Exchange Ethereum](https://ethereum.stackexchange.com/)
   - Great place for asking technical questions about Ethereum
-- [Peeranha](https://peeranha.io/)
+- [Peeranha](https://peera.ai/)
   - Decentralized Stack Exchange!
 - [Cookbook](./cookbook-listings.md)
   - A smart contract registry and co-pilot
@@ -1095,7 +1095,7 @@ _[⌨️ Windows Setup (WSL) ](https://updraft.cyfrin.io/courses/foundry/foundry
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/install)
   - When working in WSL, use Linux commands instead of Windows commands
 - [TroubleShooting](https://docs.microsoft.com/en-us/windows/wsl/troubleshooting)
-- `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash`
+- `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash`
 
 > ⚠️ Please use Gitpod as an absolute last resort
 
@@ -1464,7 +1464,6 @@ _[⌨️ Gas: Cheaper Withdraw (continued) ](https://updraft.cyfrin.io/courses/f
 
 - [evm.codes](https://www.evm.codes/)
 - [Style Guide](https://docs.soliditylang.org/en/latest/style-guide.html)
-  - [Chainlink Style Guide](https://github.com/smartcontractkit/chainlink/blob/develop/contracts/STYLE_GUIDE.md)
 - [NatSpec](https://docs.soliditylang.org/en/latest/natspec-format.html)
 
 ## Interactions.s.sol
@@ -2801,8 +2800,8 @@ _[⌨️ Intro to Manual review](https://updraft.cyfrin.io/courses/advanced-foun
 ### Symbolic Execution
 
 - [Manticore](https://github.com/trailofbits/manticore)
-- [Mythril](https://github.com/ConsenSys/mythril)
-- [hevm](https://github.com/ethereum/hevm)
+- [Mythril](https://github.com/ConsenSysDiligence/mythril)
+- [hevm](https://github.com/argotorg/hevm)
 - [Comparison](https://hackmd.io/@SaferMaker/EVM-Sym-Exec)
 
 ### Fuzzing
@@ -2813,7 +2812,7 @@ _[⌨️ Intro to Manual review](https://updraft.cyfrin.io/courses/advanced-foun
 
 ### Formal Verification (& Symbolic Execution)
 
-- [Comparisons](https://twitter.com/palinatolmach/status/1653030270684270592)
+- [Comparisons](https://x.com/palinatolmach/status/1653030270684270592)
 
 ### Other security stuff
 
@@ -2933,7 +2932,7 @@ And thanks to the [Cyfrin](https://www.cyfrin.io/) team for making this possible
 
 Cyfrin Updraft content is open-sourced [licensed as GPLv3](https://github.com/cyfrin/foundry-full-course-cu/blob/main/LICENSE).
 
-[![Cyfrin Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cyfrinupdraft)
+[![Cyfrin Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/cyfrinupdraft)
 [![Cyfrin YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CyfrinAudits)
 [![Cyfrin LinkedIn](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/school/cyfrin-updraft/)
 
